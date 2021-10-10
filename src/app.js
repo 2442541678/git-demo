@@ -1,5 +1,6 @@
 const app = {
-    data: 'aaa'
+    data: 'aaa',
+    name: 'haha'
 
 }
 
